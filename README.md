@@ -1,2 +1,2 @@
-# Numerical_Methods_Using_MATLAB
+# Numerical_Analysis_Methods
 * Different numerical analysis methods using MATLAB
